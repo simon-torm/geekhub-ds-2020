@@ -13,8 +13,10 @@ names = ('sepallength', 'sepalwidth', 'petallength', 'petalwidth', 'species')
 
 # 1.Извлечь колонку ‘species’
 print('\nTASK #1')
-iris = iris[ : , :4]
-#print(iris)
+#не знаю, чи варто було таким шляхом робити. тут звісно можна було вказати індекс "4"
+#але я віришив, що нам не відомо індекс потрібної колонки за умовою
+iris = np.delete(iris, np.where(np.asarray(names) == 'species'), 1)
+print(iris)
 
 # 2.Преобразовать первые 4 колонки в 2D массив?
 print('\nTASK #2')
@@ -82,9 +84,16 @@ print('max repeated value:', unique_list[np.argmax(unique_counts)])
 
 # 13.Написать функцию, которая бы умножала все значения в колонке, меньше среднего значения в этой колонке, на 2, и делила остальные значения на 4. Применить к 3-й колонке
 print('\nTASK #13')
-def my_func(x):
-    x2 = x.copy()
-    mean_val = x.mean()
-    x[x2 < mean_val],  x[x2 >= mean_val]  = x[x2 < mean_val] * 2, x[x2 >= mean_val] / 4
 
-np.apply_along_axis(my_func, 0, iris[ : , 2])
+
+def my_func(a):
+    a2 = a.copy()
+    mean_val = a2.mean()
+    cond1 = np.where(a2 < mean_val)
+    cond2 = np.where(a2 >= mean_val)
+    a2[cond1] = a2[cond1] * 2
+    a2[cond2] = a2[cond2] / 4
+    return a2
+
+
+iris[ : , 2] = np.apply_along_axis(my_func, 0, iris[ : , 2])
