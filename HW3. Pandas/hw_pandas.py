@@ -30,7 +30,7 @@
 # - native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.   
 # - salary: >50K,<=50K
 
-# In[203]:
+# In[1]:
 
 
 import pandas as pd
@@ -39,14 +39,14 @@ pd.set_option('display.max_rows', 100)
 pd.__version__
 
 
-# In[195]:
+# In[2]:
 
 
 data = pd.read_csv('adult.data.csv')
 data.head()
 
 
-# In[6]:
+# In[3]:
 
 
 data.info()
@@ -54,15 +54,15 @@ data.info()
 
 # **1. Сколько мужчин и женщин (признак *sex*) представлено в этом наборе данных?**
 
-# In[8]:
+# In[6]:
 
 
-pd.unique(data['sex']).tolist()
+data['sex'].value_counts()
 
 
 # **2. Каков средний возраст (признак *age*) женщин?**
 
-# In[11]:
+# In[7]:
 
 
 data[data['sex'] == 'Female']['age'].mean()
@@ -70,7 +70,7 @@ data[data['sex'] == 'Female']['age'].mean()
 
 # **3. Какова доля граждан Германии (признак *native-country*)?**
 
-# In[30]:
+# In[8]:
 
 
 data['native-country'].value_counts(normalize = True)['Germany']
@@ -78,7 +78,7 @@ data['native-country'].value_counts(normalize = True)['Germany']
 
 # **4-5. Каковы средние значения и среднеквадратичные отклонения возраста тех, кто получает более 50K в год (признак *salary*) и тех, кто получает менее 50K в год? **
 
-# In[133]:
+# In[9]:
 
 
 #v1
@@ -93,16 +93,16 @@ data.groupby(['salary'])['age'].agg(pd.DataFrame.std)
 
 # **6. Правда ли, что люди, которые получают больше 50k, имеют как минимум высшее образование? (признак *education – Bachelors, Prof-school, Assoc-acdm, Assoc-voc, Masters* или *Doctorate*)**
 
-# In[75]:
+# In[11]:
 
 
 higher_educ = ('Bachelors', 'Prof-school', 'Assoc-acdm', 'Assoc-voc', 'Masters', 'Doctorate')
 uniq_educ_more50 = data[data['salary'] == '>50K']['education'].unique()
-res = False
+res = True
 
 for i in uniq_educ_more50:
     if(i not in higher_educ):
-        res = True
+        res = False
         break
         
 print("It's", res)
