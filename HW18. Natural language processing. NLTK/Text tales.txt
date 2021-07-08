@@ -1,0 +1,676 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;\f2\froman\fcharset0 Times-Italic;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red254\green233\blue234;\red0\green0\blue233;
+\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c93333\c93333;\cssrgb\c0\c0\c93333;
+\cssrgb\c50196\c50196\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Little Red Riding Hood\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Charles Perrault\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 Once upon a time there lived in a certain village a little country girl, the prettiest creature who was ever seen. Her mother was excessively fond of her; and her grandmother doted on her still more. This good woman had a little red riding hood made for her. It suited the girl so extremely well that everybody called her Little Red Riding Hood.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 One day her mother, having made some cakes, said to her, "Go, my dear, and see how your grandmother is doing, for I hear she has been very ill. Take her a cake, and this little pot of butter."\
+Little Red Riding Hood set out immediately to go to her grandmother, who lived in another village.\
+As she was going through the wood, she met with a wolf, who had a very great mind to eat her up, but he dared not, because of some woodcutters working nearby in the forest. He asked her where she was going. The poor child, who did not know that it was dangerous to stay and talk to a wolf, said to him, "I am going to see my grandmother and carry her a cake and a little pot of butter from my mother."\
+"Does she live far off?" said the wolf\
+"Oh I say," answered Little Red Riding Hood; "it is beyond that mill you see there, at the first house in the village."\
+"Well," said the wolf, "and I'll go and see her too. I'll go this way and go you that, and we shall see who will be there first."\
+The wolf ran as fast as he could, taking the shortest path, and the little girl took a roundabout way, entertaining herself by gathering nuts, running after butterflies, and gathering bouquets of little flowers. It was not long before the wolf arrived at the old woman's house. He knocked at the door: tap, tap.\
+"Who's there?"\
+"Your grandchild, Little Red Riding Hood," replied the wolf, counterfeiting her voice; "who has brought you a cake and a little pot of butter sent you by mother."\
+The good grandmother, who was in bed, because she was somewhat ill, cried out, "Pull the bobbin, and the latch will go up."\
+The wolf pulled the bobbin, and the door opened, and then he immediately fell upon the good woman and ate her up in a moment, for it been more than three days since he had eaten. He then shut the door and got into the grandmother's bed, expecting Little Red Riding Hood, who came some time afterwards and knocked at the door: tap, tap.\
+"Who's there?"\
+Little Red Riding Hood, hearing the big voice of the wolf, was at first afraid; but believing her grandmother had a cold and was hoarse, answered, "It is your grandchild Little Red Riding Hood, who has brought you a cake and a little pot of butter mother sends you."\
+The wolf cried out to her, softening his voice as much as he could, "Pull the bobbin, and the latch will go up."\
+Little Red Riding Hood pulled the bobbin, and the door opened.\
+The wolf, seeing her come in, said to her, hiding himself under the bedclothes, "Put the cake and the little pot of butter upon the stool, and come get into bed with me."\
+Little Red Riding Hood took off her clothes and got into bed. She was greatly amazed to see how her grandmother looked in her nightclothes, and said to her, "Grandmother, what big arms you have!"\
+"All the better to hug you with, my dear."\
+"Grandmother, what big legs you have!"\
+"All the better to run with, my child."\
+"Grandmother, what big ears you have!"\
+"All the better to hear with, my child."\
+"Grandmother, what big eyes you have!"\
+"All the better to see with, my child."\
+"Grandmother, what big teeth you have got!"\
+"All the better to eat you up with."\
+And, saying these words, this wicked wolf fell upon Little Red Riding Hood, and ate her all up.\
+\pard\pardeftab720\partightenfactor0
+\cf2 Moral: Children, especially attractive, well bred young ladies, should never talk to strangers, for if they should do so, they may well provide dinner for a wolf. I say "wolf," but there are various kinds of wolves. There are also those who are charming, quiet, polite, unassuming, complacent, and sweet, who pursue young women at home and in the streets. And unfortunately, it is these gentle wolves who are the most dangerous ones of all.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source: Andrew Lang,\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=5IUSAAAAYAAJ&pg=PP11#v=onepage&q&f=false"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 The Blue Fairy Book}}, 5th edition (London: Longmans, Green, and Company, 1891),\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=5IUSAAAAYAAJ&pg=PA51#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 pp. 51-53}}. Lang's source: Charles Perrault,\'a0
+\f2\i Histoires ou contes du temps pass\'e9, avec des moralit\'e9s: Contes de ma m\'e8re l'Oye
+\f1\i0 \'a0(Paris, 1697).\uc0\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The French title of this famous tale is "Le Petit Chaperon rouge."\uc0\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Link to a French-language text of\'a0{\field{\*\fldinst{HYPERLINK "http://fr.wikisource.org/wiki/Le_Petit_Chaperon_rouge_%28Perrault%29"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 Le Petit Chaperon rouge}}.\uc0\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Link to D. L. Ashliman's home page for\'a0{\field{\*\fldinst{HYPERLINK "http://www.pitt.edu/~dash/perrault.html"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 Charles Perrault's Mother Goose Tales}}.\uc0\u8232 \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 Little Red Cap\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Jacob and Wilhelm Grimm\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 Once upon a time there was a sweet little girl. Everyone who saw her liked her, but most of all her grandmother, who did not know what to give the child next. Once she gave her a little cap made of red velvet. Because it suited her so well, and she wanted to wear it all the time, she came to be known as Little Red Cap.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 One day her mother said to her, "Come Little Red Cap. Here is a piece of cake and a bottle of wine. Take them to your grandmother. She is sick and weak, and they will do her well. Mind your manners and give her my greetings. Behave yourself on the way, and do not leave the path, or you might fall down and break the glass, and then there will be nothing for your sick grandmother."\
+Little Red Cap promised to obey her mother. The grandmother lived out in the woods, a half hour from the village. When Little Red Cap entered the woods a wolf came up to her. She did not know what a wicked animal he was, and was not afraid of him.\
+"Good day to you, Little Red Cap."\
+"Thank you, wolf."\
+"Where are you going so early, Little Red Cap?"\
+"To grandmother's."\
+"And what are you carrying under your apron?"\
+"Grandmother is sick and weak, and I am taking her some cake and wine. We baked yesterday, and they should give her strength."\
+"Little Red Cap, just where does your grandmother live?"\
+"Her house is a good quarter hour from here in the woods, under the three large oak trees. There's a hedge of hazel bushes there. You must know the place," said Little Red Cap.\
+The wolf thought to himself, "Now there is a tasty bite for me. Just how are you going to catch her?" Then he said, "Listen, Little Red Cap, haven't you seen the beautiful flowers that are blossoming in the woods? Why don't you go and take a look? And I don't believe you can hear how beautifully the birds are singing. You are walking along as though you were on your way to school in the village. It is very beautiful in the woods."\
+Little Red Cap opened her eyes and saw the sunlight breaking through the trees and how the ground was covered with beautiful flowers. She thought, "If a take a bouquet to grandmother, she will be very pleased. Anyway, it is still early, and I'll be home on time." And she ran off into the woods looking for flowers. Each time she picked one she thought that she could see an even more beautiful one a little way off, and she ran after it, going further and further into the woods. But the wolf ran straight to the grandmother's house and knocked on the door.\
+"Who's there?"\
+"Little Red Cap. I'm bringing you some cake and wine. Open the door for me."\
+"Just press the latch," called out the grandmother. "I'm too weak to get up."\
+The wolf pressed the latch, and the door opened. He stepped inside, went straight to the grandmother's bed, and ate her up. Then he took her clothes, put them on, and put her cap on his head. He got into her bed and pulled the curtains shut.\
+Little Red Cap had run after flowers, and did not continue on her way to grandmother's until she had gathered all that she could carry. When she arrived, she found, to her surprise, that the door was open. She walked into the parlor, and everything looked so strange that she thought, "Oh, my God, why am I so afraid? I usually like it at grandmother's." Then she went to the bed and pulled back the curtains. Grandmother was lying there with her cap pulled down over her face and looking very strange.\
+"Oh, grandmother, what big ears you have!"\
+"All the better to hear you with."\
+"Oh, grandmother, what big eyes you have!"\
+"All the better to see you with."\
+"Oh, grandmother, what big hands you have!"\
+"All the better to grab you with!"\
+"Oh, grandmother, what a horribly big mouth you have!"\
+"All the better to eat you with!" And with that he jumped out of bed, jumped on top of poor Little Red Cap, and ate her up. As soon as the wolf had finished this tasty bite, he climbed back into bed, fell asleep, and began to snore very loudly.\
+A huntsman was just passing by. He thought it strange that the old woman was snoring so loudly, so he decided to take a look. He stepped inside, and in the bed there lay the wolf that he had been hunting for such a long time. "He has eaten the grandmother, but perhaps she still can be saved. I won't shoot him," thought the huntsman. So he took a pair of scissors and cut open his belly.\
+He had cut only a few strokes when he saw the red cap shining through. He cut a little more, and the girl jumped out and cried, "Oh, I was so frightened! It was so dark inside the wolf's body!"\
+And then the grandmother came out alive as well. Then Little Red Cap fetched some large heavy stones. They filled the wolf's body with them, and when he woke up and tried to run away, the stones were so heavy that he fell down dead.\
+The three of them were happy. The huntsman took the wolf's pelt. The grandmother ate the cake and drank the wine that Little Red Cap had brought. And Little Red Cap thought to herself, "As long as I live, I will never leave the path and run off into the woods by myself if mother tells me not to."\
+\
+\pard\pardeftab720\li3900\ri3900\sa120\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 They also tell how Little Red Cap was taking some baked things to her grandmother another time, when another wolf spoke to her and wanted her to leave the path. But Little Red Cap took care and went straight to grandmother's. She told her that she had seen the wolf, and that he had wished her a good day, but had stared at her in a wicked manner. "If we hadn't been on a public road, he would have eaten me up," she said.\
+"Come," said the grandmother. "Let's lock the door, so he can't get in."\
+Soon afterward the wolf knocked on the door and called out, "Open up, grandmother. It's Little Red Cap, and I'm bringing you some baked things."\
+They remained silent, and did not open the door. The wicked one walked around the house several times, and finally jumped onto the roof. He wanted to wait until Little Red Cap went home that evening, then follow her and eat her up in the darkness. But the grandmother saw what he was up to. There was a large stone trough in front of the house.\
+"Fetch a bucket, Little Red Cap," she said. "Yesterday I cooked some sausage. Carry the water that I boiled them with to the trough." Little Red Cap carried water until the large, large trough was clear full. The smell of sausage arose into the wolf's nose. He sniffed and looked down, stretching his neck so long that he could no longer hold himself, and he began to slide. He slid off the roof, fell into the trough, and drowned. And Little Red Cap returned home happily and safely.\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source: "Rothk\'e4ppchen,"\'a0
+\f2\i Kinder- und Hausm\'e4rchen
+\f1\i0 , 1st ed. (Berlin: Realschulbuchhandlung, 1812), v. 1, no. 26, pp. 113-18. Translated by D. L. Ashliman.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The Grimms' source for the first variant (the main story) was Jeanette Hassenpflug (1791-1860). Marie Hassenpflug (1788-1856) provided them with the second variant (the concluding episode, introduced with the sentence "They also tell how Little Red Cap was taking some baked things to her grandmother another time...."\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The German title of this tale is\'a0
+\f2\i Rotk\'e4ppchen
+\f1\i0 \'a0(
+\f2\i Rothk\'e4ppchen
+\f1\i0 \'a0in the nineteenth-century spelling of the Grimm brothers).\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Link to an English translation of the Grimms'\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/grimm026.html"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 final version (edition of 1857) of Little Red Cap}}.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Link to the German text of the Grimms' final version: "Rothk\'e4ppchen,"\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=y9tLAAAAIAAJ&pg=PP9#v=onepage&q&f=false"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 Kinder- und Hausm\'e4rchen, gesammelt durch die Br\'fcder Grimm}}, 7th edition, vol. 1 (G\'f6ttingen: Verlag der Dieterichschen Buchhandlung, 1857),\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=y9tLAAAAIAAJ&pg=PA140#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 no. 26, pp. 140-44}}.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Link to the\'a0{\field{\*\fldinst{HYPERLINK "http://www.pitt.edu/~dash/grimm.html"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 Grimm Brothers Home Page}}.\uc0\u8232 \
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 Little Red Hood\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Lower Lusatia\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 Once upon a time, there was a little darling damsel, whom everybody loved that looked upon her, but her old granny loved her best of all, and didn't know what to give the dear child for love. Once she made her a hood of red samite, and since that became her so well, and she, too, would wear nothing else on her head, people gave her the name of "Red Hood."\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 Once her mother said to Red Hood, "Go; here is a slice of cake and a bottle of wine; carry them to old granny. She is ill and weak, and they will refresh her. But be pretty behaved, and don't peep about in all corners when you come into her room, and don't forget to say 'Good-day.' Walk, too, prettily, and don't go out of the road, otherwise you will fall and break the bottle, and then poor granny will have nothing."\
+Red Hood said, "I will observe everything well that you have told me," and gave her mother her hand upon it.\
+But granny lived out in a forest, half an hour's walk from the village. When Red Hood went into the forest, she met a wolf. But she did not know what a wicked beast he was, and was not afraid of him.\
+"God help you, Red Hood!" said he.\
+"God bless you, wolf!" replied she.\
+"Whither so early, Red Hood?"\
+"To granny."\
+"What have you there under your mantle?"\
+"Cake and wine. We baked yesterday; old granny must have a good meal for once, and strengthen herself therewith."\
+"Where does your granny live, Red Hood?"\
+"A good quarter of an hour's walk further in the forest, under yon three large oaks. There stands her house; further beneath are the nut trees, which you will see there," said Red Hood.\
+The wolf thought within himself, "This nice young damsel is a rich morsel. She will taste better than the old woman; but you must trick her cleverly, that you may catch both."\
+For a time he went by Red Hood's side Then said he, "Red Hood! Just look! There are such pretty flowers here! Why don't you look round at them all? Methinks you don't even hear how delightfully the birds are singing! You are as dull as if you were going to school, and yet it is so cheerful in the forest!"\
+Little Red Hood lifted up her eyes, and when she saw how the sun's rays glistened through the tops of the trees, and every place was full of flowers, she bethought herself, "If I bring with me a sweet smelling nosegay to granny, it will cheer her. It is still so early, that I shall come to her in plenty of time," and therewith she skipped into the forest and looked for flowers. And when she had plucked one, she fancied that another further off was nicer, and ran there, and went always deeper and deeper into the forest.\
+But the wolf went by the straight road to old granny's, and knocked at the door.\
+"Who's there?"\
+"Little Red Hood, who has brought cake and wine. Open!"\
+"Only press the latch," cried granny. "I am so weak that I cannot stand."\
+The wolf pressed the latch, walked in, and went without saying a word straight to granny's bed and ate her up. Then he took her clothes, dressed himself in them, put her cap on his head, lay down in her bed and drew the curtains.\
+Meanwhile little Red Hood was running after flowers, and when she had so many that she could not carry any more, she bethought her of her granny, and started on the way to her. It seemed strange to her that the door was wide open, and when she entered the room everything seemed to her so peculiar, that she thought, "Ah! My God! How strange I feel today, and yet at other times I am so glad to be with granny!"\
+She said, "Good-day!" but received no answer.\
+Thereupon she went to the bed and undrew the curtains. There lay granny, with her cap drawn down to her eyes, and looking so queer!\
+"Ah, granny! Why have you such long ears?"\
+"The better to hear you."\
+"Ah, granny! Why have you such large eyes?"\
+"The better to see you."\
+"Ah, granny! Why have you such large hands?"\
+"The better to take hold of you."\
+"But, granny! Why have you such a terribly large mouth?"\
+"The better to eat you up!"\
+And therewith the wolf sprang out of bed at once on poor little Red Hood, and ate her up. When the wolf had satisfied his appetite, he lay down again in the bed, and began to snore tremendously.\
+A huntsman came past, and bethought himself, "How can an old woman snore like that? I'll just have a look to see what it is."\
+He went into the room, and looked into the bed; there lay the wolf. "Have I found you now, old rascal?" said he. "I've long been looking for you."\
+He was just going to take aim with his gun, when he bethought himself, "Perhaps the wolf has only swallowed granny, and she may yet be released."\
+Therefore he did not shoot, but took a knife and began to cut open the sleeping wolf's maw. When he had made several cuts, he saw a red hood gleam, and after one or two more cuts out skipped Red Hood, and cried, "Oh, how frightened I have been; it was so dark in the wolf's maw!"\
+Afterwards out came old granny, still alive, but scarcely able to breathe. But Red Hood made haste and fetched large stones, with which they filled the wolf's maw, and when he woke he wanted to jump up and run away, but the stones were so heavy that he fell on the ground and beat himself to death.\
+Now, they were all three merry. The huntsman took off the wolf's skin; granny ate the cake and drank the wine which little Red Hood had brought, and became strong and well again; and little Red Hood thought to herself, "As long as I live, I won't go out of the road into the forest, when mother has forbidden me."\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source: A. H. Wratislaw,\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=EG5HAAAAIAAJ&pg=PR1#v=onepage&q&f=false"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 Sixty Folk-Tales from Exclusively Slavonic Sources}}\'a0(London: Elliot Stock, 1889),\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=EG5HAAAAIAAJ&pg=PA97#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 no. 15, pp. 97-100}}.\uc0\u8232 \
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Lower Lusatia (German\'a0
+\f2\i Niederlausitz
+\f1\i0 , Polish\'a0
+\f2\i Dolne \uc0\u321 u\u380 yce
+\f1\i0 ) is a mixed German and Slavic historical and cultural region in today's eastern German and western Poland.\uc0\u8232 \
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Note by Wratslaw:"Little Red Hood," like many folklore tales, is a singular mixture of myth and morality. In Cox's\'a0
+\f2\i Comparative Mythology
+\f1\i0 , vol. ii., p. 831, note, Little Redcap, or Little Red Riding Hood, is interpreted as "the evening with her scarlet robe of twilight," who is swallowed up by the wolf of darkness, the Fenris of the Edda. It appears to me that this explanation may suit the color of her cap or hood, but is at variance with the other incidents of the story. I am inclined to look upon the tale as a lunar legend, although the moon is only actually red during one portion of the year, at the harvest moon in the autumn. Red Hood is represented as wandering, like Io, who is undoubtedly the moon, through trees, the clouds, and flowers, the stars, before she reaches the place where she is intercepted by the wolf. An eclipse to untutored minds would naturally suggest the notion that some evil beast was endeavoring to devour the moon, who is afterwards rescued by the sun, the archer of the heavens, whose bow and arrow are by a common anachronism represented in the story by a gun. Though the moon is masculine in Slavonic, as in German, yet she is a lady, "my lady Luna," in the Croatian legend no. 53, below [{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=EG5HAAAAIAAJ&pg=PA278#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 "The Daughter of the King of the Vilas"}}]. In the Norse mythology, when Loki is let loose at the end of the world, he is to "hurry in the form of a wolf to swallow the moon " (Cox ii., p. 200). The present masculine Slavonic word for moon, which is also that for month,\'a0
+\f2\i mesic
+\f1\i0 , or\'a0
+\f2\i mesec
+\f1\i0 , is a secondary formation, the original word having perished. In Greek and Latin the moon is always feminine.\uc0\u8232 \
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\uc0\u8232 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 Little Red Hat\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Italy/Austria\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 Once there was an old woman who had a granddaughter named Little Red Hat. One day they were both in the field when the old woman said, "I am going home now. You come along later and bring me some soup."\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 After a while Little Red Hat set out for her grandmother's house, and she met an ogre, who said, "Hello, my dear Little Red Hat. Where are you going?"\
+"I am going to my grandmother's to take her some soup."\
+"Good," he replied, "I'll come along too. Are you going across the stones or the thorns?"\
+"I'm going across the stones," said the girl.\
+"Then I'll go across the thorns," replied the ogre.\
+They left. But on the way Little Red Hat came to a meadow where beautiful flowers of all colors were in bloom, and the girl picked as many as her heart desired. Meanwhile the ogre hurried on his way, and although he had to cross the thorns, he arrived at the house before Little Red Hat. He went inside, killed the grandmother, ate her up, and climbed into her bed. He also tied her intestine onto the door in place of the latch string and placed her blood, teeth, and jaws in the kitchen cupboard.\
+He had barely climbed into bed when Little Red Hat arrived and knocked at the door.\
+"Come in" called the ogre with a dampened voice.\
+Little Red Hat tried to open the door, but when she noticed that she was pulling on something soft, she called out, "Grandmother, this thing is so soft!"\
+"Just pull and keep quiet. It is your grandmother's intestine!"\
+"What did you say?"\
+"Just pull and keep quiet!"\
+Little Red Hat opened the door, went inside, and said, "Grandmother, I am hungry."\
+The ogre replied, "Go to the kitchen cupboard. There is still a little rice there."\
+Little Red Hat went to the cupboard and took the teeth out. "Grandmother, these things are very hard!"\
+"Eat and keep quiet. They are your grandmother's teeth!"\
+"What did you say?"\
+"Eat and keep quiet!"\
+A little while later Little Red Hat said, "Grandmother, I'm still hungry."\
+"Go back to the cupboard," said the ogre. "You will find two pieces of chopped meat there."\
+Little Red Hat went to the cupboard and took out the jaws. "Grandmother, this is very red!"\
+"Eat and keep quiet. They are your grandmother's jaws!"\
+"What did you say?"\
+"Eat and keep quiet!"\
+A little while later Little Red Hat said, "Grandmother, I'm thirsty."\
+"Just look in the cupboard," said the ogre. "There must be a little wine there."\
+Little Red Hat went to the cupboard and took out the blood. "Grandmother, this wine is very red!"\
+"Drink and keep quiet. It is your grandmother's blood!\
+"What did you say?"\
+"Just drink and keep quiet!"\
+A little while later Little Red Hat said, "Grandmother, I'm sleepy."\
+"Take off your clothes and get into bed with me!" replied the ogre.\
+Little Red Hat got into bed and noticed something hairy. "Grandmother, you are so hairy!"\
+"That comes with age," said the ogre.\
+"Grandmother, you have such long legs!"\
+"That comes from walking."\
+"Grandmother, you have such long hands!"\
+"That comes from working."\
+"Grandmother, you have such long ears!"\
+"That comes from listening."\
+"Grandmother, you have such a big mouth!"\
+"That comes from eating children!" said the ogre, and bam, he swallowed Little Red Hat with one gulp.\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source: Christian Schneller, "Das Rothh\'fctchen,"\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=Sx4WAAAAYAAJ&pg=PR1#v=onepage&q&f=false"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 M\'e4rchen und Sagen aus W\'e4lschtirol: Ein Beitrag zur deutschen Sagenkunde}}\'a0(Innsbruck: Verlag der Wagner'schen Universit\'e4ts-Buchhandlung, 1867),\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=Sx4WAAAAYAAJ&pg=PA9#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 no. 6, pp. 9-10}}. Translated by D. L. Ashliman. \'a9 2007.\uc0\u8232 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The Italian title of this story is "El cappelin rosso."\uc0\u8232 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 The Grandmother\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 France\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 There was a woman who had made some bread. She said to her daughter, "Go and carry a hot loaf and a bottle of milk to your grandmother."\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 So the little girl set forth. Where two paths crossed she met the bzou [werewolf], who said to her, "Where are you going?"\
+"I am carrying a hot loaf and a bottle of milk to my grandmother."\
+"Which path are you taking? said the bzou. "The one of needles or the one of pins?"\
+"The one of needles," said the little girl.\
+"Good! I am taking the one of pins."\
+The little girl entertained herself by gathering needles.\
+The bzou arrived at the grandmother's house and killed her. He put some of her flesh in the pantry and a bottle of her blood on the shelf.\
+The little girl arrived and knocked at the door. "Push on the door," said the bzou. "It is blocked with a pail of water."\
+"Good day, grandmother. I have brought you a hot loaf and a bottle of milk."\
+"Put it in the pantry, my child. Take some of the meat that is there, and the bottle of wine that is on the shelf."\
+While she was eating, a little cat that was there said, "For shame! The slut is eating her grandmother's flesh and drinking her grandmother's blood."\
+"Get undressed, my child," said the bzou, and come to bed with me."\
+"Where should I put my apron?"\
+"Throw it into the fire. You won't need it anymore."\
+And for all her clothes -- her bodice, her dress, her petticoat, and her shoes and stockings -- she asked where she should put them, and the wolf replied, "Throw them into the fire, my child. You won't need them anymore."\
+When she had gone to bed the little girl said, "Oh, grandmother, how hairy you are!"\
+"The better to keep myself warm, my child."\
+"Oh, grandmother, what long nails you have!"\
+"The better to scratch myself with, my child!"\
+"Oh, grandmother, what big shoulders you have!"\
+"The better to carry firewood with, my child!"\
+"Oh, grandmother, what big ears you have!"\
+"The better to hear with, my child!"\
+"Oh, grandmother, what a big nose you have!"\
+"To better take my tobacco with, my child!"\
+"Oh, grandmother, what a big mouth you have!"\
+"The better to eat you with, my child!"\
+"Oh, grandmother, I have to do it outside!"\
+"Do it in the bed, my child!"\
+"Oh no, grandmother, I really have to do it outside."\
+"All right, but don't take too long."\
+The bzou tied a woolen thread to her foot and let her go. As soon as the little girl was outside she tied the end of the thread to a plum tree in the yard.\
+The bzou grew impatient and said, "Are you doing a load? Are you doing a load?"\
+Not hearing anyone reply, he jumped out of bed and hurried after the little girl, who had escaped. He followed her, but he arrived at her home just as she went inside.\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source:\'a0{\field{\*\fldinst{HYPERLINK "http://expositions.bnf.fr/contes/gros/chaperon/nivers.htm"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 Conte de la m\'e8re-grand}}, from a website sponsored by the\'a0{\field{\*\fldinst{HYPERLINK "http://www.bnf.fr/"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 Biblioth\'e8que nationale de France}}. Translated by\'a0D. L. Ashliman. \'a9 2007.\uc0\u8232 \
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Collected by folklorist Achille Millien (1838-1927) in the French province of Nivernais, about 1870.\uc0\u8232 \
+\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 The True History of Little Golden-Hood\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Charles Marelles\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 You know the tale of poor Little Red Riding-Hood, that the wolf deceived and devoured, with her cake, her little butter can, and her grandmother. Well, the true story happened quite differently, as we know now. And first of all the little girl was called and is still called Little Golden-Hood; secondly, it was not she, nor the good grand-dame, but the wicked wolf who was, in the end, caught and devoured.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 Only listen. The story begins something like the tale.\
+There was once a little peasant girl, pretty and nice as a star in its season. Her real name was Blanchette, but she was more often called Little Golden-Hood, on account of a wonderful little cloak with a hood, gold- and fire-colored, which she always had on. This little hood was given her by her grandmother, who was so old that she did not know her age; it ought to bring her good luck, for it was made of a ray of sunshine, she said. And as the good old woman was considered something of a witch, everyone thought the little hood rather bewitched too.\
+And so it was, as you will see.\
+One day the mother said to the child, "Let us see, my Little Golden-Hood, if you know now how to find your way by yourself. You shall take this good piece of cake to your grandmother for a Sunday treat tomorrow. You will ask her how she is, and come back at once, without stopping to chatter on the way with people you don't know. Do you quite understand?"\
+"I quite understand," replied Blanchette gaily. And off she went with the cake, quite proud of her errand.\
+But the grandmother lived in another village, and there was a big wood to cross before getting there. At a turn of the road under the trees, suddenly, "Who goes there?"\
+"Friend wolf."\
+He had seen the child start alone, and the villain was waiting to devour her; when at the same moment he perceived some woodcutters who might observe him, and he changed his mind. Instead of falling upon Blanchette he came frisking up to her like a good dog.\
+"'Tis you! my nice Little Golden-Hood," said he.\
+So the little girl stops to talk with the wolf, who, for all that, she did not know in the least.\
+"You know me, then!" said she. "What is your name?"\
+"My name is friend wolf. And where are you going thus, my pretty one, with your little basket on your arm?"\
+"I am going to my grandmother, to take her a good piece of cake for her Sunday treat tomorrow."\
+"And where does she live, your grandmother?"\
+"She lives at the other side of the wood, in the first house in the village, near the windmill, you know."\
+"Ah! yes! I know now," said the wolf. "Well, that's just where I'm going; I shall get there before you, no doubt, with your little bits of legs, and I'll tell her you're coming to see her; then she'll wait for you."\
+Thereupon the wolf cuts across the wood, and in five minutes arrives at the grandmother's house. He knocks at the door: toc, toc.\
+No answer.\
+He knocks louder.\
+Nobody.\
+Then he stands up on end, puts his two forepaws on the latch and the door opens. Not a soul in the house. The old woman had risen early to sell herbs in the town, and she had gone off in such haste that she had left her bed unmade, with her great nightcap on the pillow.\
+"Good!" said the wolf to himself, "I know what I'll do."\
+He shuts the door, pulls on the grandmother's nightcap down to his eyes, then he lies down all his length in the bed and draws the curtains.\
+In the meantime the good Blanchette went quietly on her way, as little girls do, amusing herself here and there by picking Easter daisies, watching the little birds making their nests, and running after the butterflies which fluttered in the sunshine.\
+At last she arrives at the door.\
+Knock, knock.\
+"Who is there?" says the wolf, softening his rough voice as best he can.\
+"It's me, Granny, your Little Golden-Hood. I'm bringing you a big piece of cake for your Sunday treat tomorrow."\
+"Press your finger on the latch, then push and the door opens."\
+"Why, you've got a cold, Granny," said she, coming in.\
+"Ahem! a little, a little . . ." replies the wolf, pretending to cough. "Shut the door well, my little lamb. Put your basket on the table, and then take off your frock and come and lie down by me. You shall rest a little."\
+The good child undresses, but observe this! She kept her little hood upon her head. When she saw what a figure her Granny cut in bed, the poor little thing was much surprised.\
+"Oh!" cries she, "how like you are to friend wolf, Grandmother!"\
+"That's on account of my nightcap, child," replies the wolf.\
+"Oh! what hairy arms you've got, Grandmother!"\
+"All the better to hug you, my child."\
+"Oh! what a big tongue you've got, Grandmother!"\
+"All the better for answering, child."\
+"Oh ! what a mouthful of great white teeth you have, Grandmother!"\
+"That's for crunching little children with!"\
+And the wolf opened his jaws wide to swallow Blanchette.\
+But she put down her head crying, "Mamma! Mamma!" and the wolf only caught her little hood.\
+Thereupon, oh dear! oh dear! he draws back, crying and shaking his jaw as if he had swallowed red-hot coals. It was the little fire-colored hood that had burnt his tongue right down his throat.\
+The little hood, you see, was one of those magic caps that they used to have in former times, in the stories, for making oneself invisible or invulnerable. So there was the wolf with his throat burnt, jumping off the bed and trying to find the door, howling and howling as if all the dogs in the country were at his heels.\
+Just at this moment the grandmother arrives, returning from the town with her long sack empty on her shoulder.\
+"Ah, brigand!" she cries, "wait a bit!" Quickly she opens her sack wide across the door, and the maddened wolf springs in head downwards.\
+It is he now that is caught, swallowed like a letter in the post. For the brave old dame shuts her sack, so; and she runs and empties it in the well, where the vagabond, still howling, tumbles in and is drowned.\
+"Ah, scoundrel! you thought you would crunch my little grandchild! Well, tomorrow we will make her a muff of your skin, and you yourself shall be crunched, for we will give your carcass to the dogs."\
+Thereupon the grandmother hastened to dress poor Blanchette, who was still trembling with fear in the bed.\
+"Well," she said to her, "without my little hood where would you be now, darling?" And, to restore heart and legs to the child, she made her eat a good piece of her cake, and drink a good draught of wine, after which she took her by the hand and led her back to the house.\
+And then, who was it who scolded her when she knew all that had happened? It was the mother.\
+But Blanchette promised over and over again that she would never more stop to listen to a wolf, so that at last the mother forgave her. And Blanchette, the Little Golden-Hood, kept her word. And in fine weather she may still be seen in the fields with her pretty little hood, the color of the sun. But to see her you must rise early.\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls6\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source: Andrew Lang,\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=bm8AAAAAMAAJ&pg=PP13#v=onepage&q&f=false"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 The Red Fairy Book}}, 5th edition (London and New York: Longmans, Green, and Company, 1895),\'a0{\field{\*\fldinst{HYPERLINK "http://books.google.com/books?id=bm8AAAAAMAAJ&pg=PA215#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 pp. 215-19}}.\uc0\u8232 \
+\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Lang's source: Charles Marelles.\uc0\u8232 \
+\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\uc0\u8232 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 Red Ridinghood\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Ireland\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 Once upon a time there lived a little girl called Red Ridinghood. Her grandmother was sick and her mother sent her with some food to her, and she told her not to speak to anyone on her way. She went along however, and it was not long until she met a wolf. He asked her where she was going, and she said that she was going to see her grandmother who was sick.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 The wolf said, "All right" and went away. He ran as quickly as he could, and he reached the house before her, and he went into the room and ate the grandmother. He then put on her hat and coat and went into the bed.\
+When Red Ridinghood arrived she knocked at the door, and the wolf said, "Lift the catch and walk in."\
+She did so and went into the room. When she saw the wolf inside she thought it was her grandmother, but she thought she had very big eyes and mouth.\
+"Grandma what great big eyes you have," she said.\
+"Just for to see you, my dear," said the wolf.\
+"Grandma, what great ears you have."\
+"Just for to hear my dear."\
+"Grandma what great big mouth you have."\
+"Just for to eat you my dear," and he jumped out of the bed and ate her.\
+\
+\pard\pardeftab720\li3900\ri3900\sa120\partightenfactor0
+\cf2 \
+\pard\pardeftab720\partightenfactor0
+\cf2 I got this story from\
+Thomas Burke,\
+Cluide,\
+Corrandulla,\
+Co. Galway.\
+Aged 43 years.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 Annie O'Dowde\uc0\u8232 Cluide,\u8232 Corrandulla,\u8232 Co. Galway.\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls7\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source:\'a0{\field{\*\fldinst{HYPERLINK "https://www.duchas.ie/en/cbes/4566058/4563316"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 d\'fachas.ie >> The Schools' Collection >> Co. Galway >> Caisle\'e1n hAic\'e9id, pp. 129-30}}.\uc0\u8232 \
+\ls7\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The material on this site is made available under the\'a0{\field{\*\fldinst{HYPERLINK "https://creativecommons.org/licenses/by-nc/4.0/"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 CC BY-NC 4.0 licence}}.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls7\ilvl0\cf4 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}{\field{\*\fldinst{HYPERLINK "https://www.duchas.ie/en/cbes"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul \outl0\strokewidth0 \strokec4 The Schools' Collection}}\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'a0is a manuscript collection of folklore compiled by schoolchildren in Ireland in the 1930s.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls7\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\uc0\u8232 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 The Little Girl and Her Grandmother\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Ireland\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 One day a little girl was going to see her grandmother. She brought butter and eggs in a basket to her grandmother. Her mother told her to go the pathway, but she did not go the pathway, but she went through a wood, and while she was going a wolf saw her, and he knew where she was going, and he went off before her. When he came to the grandmothers he went in and he devoured her grandmother.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 When the little girl came to her grandmother's house she went into the kitchen. There was nobody there before her. Then she went into the room, and the wolf was inside in bed before her.\
+She thought it was her grandmother, and she began talking to the wolf and she said to the wolf, "Isn't it great big ears you've got," and after a awhile she spoke again. She said, "Isn't it great big hands you've got." And then she said to the wolf again, "Isn't it a great big mouth you'e got," and then the wolf sprang, and he was going to eat the little girl, and the little girl began roaring, and there were men cutting wood in the wood, and they heard the roaring, and one of them ran to the house and cut off the wolf's head.\
+The little girl escaped.\
+\
+\pard\pardeftab720\li3900\ri3900\sa120\partightenfactor0
+\cf2 \
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarl4412 \trmarr4413 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth2056\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 Mary O'Brien\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 Told by John Eustace\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarl4412 \trmarr4413 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth2056\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 Erribul,\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 Erribul,\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarl4412 \trmarr4413 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth4798\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth2056\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 Shanahea PO.\cell 
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+\cf2 Shanahea PO.\cell \lastrow\row
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls8\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source:\'a0{\field{\*\fldinst{HYPERLINK "https://www.duchas.ie/en/cbes/5162132/5156838/5193286"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 d\'fachas.ie >> The Schools' Collection >> Co. Clare >> Effernan, Cill an D\'edsirt, pp. 171-72}}.\uc0\u8232 \
+\ls8\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The material on this site is made available under the\'a0{\field{\*\fldinst{HYPERLINK "https://creativecommons.org/licenses/by-nc/4.0/"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 CC BY-NC 4.0 licence}}.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls8\ilvl0\cf4 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}{\field{\*\fldinst{HYPERLINK "https://www.duchas.ie/en/cbes"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul \outl0\strokewidth0 \strokec4 The Schools' Collection}}\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'a0is a manuscript collection of folklore compiled by schoolchildren in Ireland in the 1930s.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls8\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\uc0\u8232 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 Red Riding Hood\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Ireland\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 One time there lived a little girl. Her name was Red Riding Hood. She was dressed in a coat of red, and she wore a hood on her head. That was why she was called Red Riding Hood. She lived beside a wood. This little girl had a granny who lived the far side of the wood. One day she was ill, and Red Riding Hood's mother sent her with a basket of goods to her granny.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 When she was going through the wood she met a wolf. The wolf asked her where she was going. She told him she was going to her granny who was ll. When the wolf heard the news he ran on before her and got into her granny's cottage and killed her. Then he got into the bed and put the granny's glasses on his eyes. Then he got her nightgown and put it on. Next he got her night cap and put it on his head. Then he got into the bed and covered himself up.\
+After a while he heard a knock at the door. The wolf told the little girl to come in. When the little girl came in she wondered how strange looking her granny was. Before she had said the words the wolf leaped out of the bed. Then the little girl began to scream. Her father was cutting timber in the wood. When he heard the noise he ran in and killed the wolf.\
+When he had the wolf killed the little girl's granny jumped out of the wolf's stomach again.\
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 Micha\'e9l O Loinseach, Crannagh, Co. Laois.\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls9\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source:\'a0{\field{\*\fldinst{HYPERLINK "https://www.duchas.ie/en/cbes/4770044/4768893/4818490"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 d\'fachas.ie >> The Schools' Collection >> Co. Laois >> Ballyadams, pp. 141-42\'a0}}.\uc0\u8232 \
+\ls9\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The material on this site is made available under the\'a0{\field{\*\fldinst{HYPERLINK "https://creativecommons.org/licenses/by-nc/4.0/"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 CC BY-NC 4.0 licence}}.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls9\ilvl0\cf4 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}{\field{\*\fldinst{HYPERLINK "https://www.duchas.ie/en/cbes"}}{\fldrslt \expnd0\expndtw0\kerning0
+\ul \outl0\strokewidth0 \strokec4 The Schools' Collection}}\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'a0is a manuscript collection of folklore compiled by schoolchildren in Ireland in the 1930s.\uc0\u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls9\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\uc0\u8232 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 The Old Man and the Wolf\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Romania\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 In a small hut far up in the mountains there lived an old man with four small children. They were his grandchildren. He loved them very much and took good care of them.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 Whenever he went into the village to buy food he would say to his grandchildren, "Dear little children! If anyone comes to the door do not let them inside. Some day the wolf might come by, and he would eat you up!"\
+Once he went into the village, and the wolf did come to the door and called out, "Dear children, open the door for me!"\
+The children thought about their grandfather's warning not to open the door, and they said nothing.\
+Then the wolf said, "Open up! Your grandfather sent me!"\
+Then the oldest child said, "Why did grandfather send you?"\
+The wolf answered, "He sent a sweet cake for you!"\
+The children could no longer resist. They opened the door. The wolf sprang inside and ate up all four of the children. He looked around in the room to see if he might find something else to eat. He found a large bottle filled with brandy. He put the bottle to his mouth and drank it empty. He became so drunk that he could not move from the spot and had to lie down in the hut.\
+Toward evening the grandfather returned home and saw the snoring wolf lying on the floor in the middle of the room. At once he knew what had happened to his grandchildren. He took a sharp knife and slit open the wolf's belly. The children jumped out, and the grandfather hid them.\
+Then the grandfather took some dry lime, filled the wolf's belly with it, and then sewed the opening shut. When the wolf woke up he was thirsty and ran to the brook, where he drank a lot of water. The lime in his belly began to boil and to burn. The wolf burst apart and died a miserable death.\
+\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls10\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source (books.google.com): Heinrich von Wlislocki, "Der alte Mann und der Wolf,"\'a0{\field{\*\fldinst{HYPERLINK "https://books.google.com/books?id=dJl0AAAAMAAJ&pg=PR1#v=onepage&q&f=false"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 M\'e4rchen und Sagen der transsilvanischen Zigeuner}}\'a0(Berlin: Nicolaische Verlags-Buchhandlung, 1886),\'a0{\field{\*\fldinst{HYPERLINK "https://books.google.com/books?id=dJl0AAAAMAAJ&pg=PA130#v=onepage&q&f=false"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 no. 58, pp. 130-31}}.\uc0\u8232 \
+\ls10\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Source (Internet Archive): Heinrich von Wlislocki, "Der alte Mann und der Wolf,"\'a0{\field{\*\fldinst{HYPERLINK "https://archive.org/details/bub_gb_IblZAAAAMAAJ/page/n2/mode/1up"}}{\fldrslt 
+\f2\i \cf4 \ul \ulc4 \strokec4 M\'e4rchen und Sagen der transsilvanischen Zigeuner}}\'a0(Berlin: Nicolaische Verlags-Buchhandlung, 1886),\'a0{\field{\*\fldinst{HYPERLINK "https://archive.org/details/bub_gb_IblZAAAAMAAJ/page/n147/mode/2up"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 no. 58, pp. 130-31}}.\uc0\u8232 \
+\ls10\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Return to the\'a0{\field{\*\fldinst{HYPERLINK "https://www.pitt.edu/~dash/type0333.html#contents"}}{\fldrslt \cf4 \ul \ulc4 \strokec4 table of contents}}.\uc0\u8232 \
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf2 The Tale of Jemima Puddle-Duck\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf2 Beatrix Potter\
+\pard\pardeftab720\partightenfactor0
+
+\f1\b0\fs24 \cf2 \cb3 What a funny sight it is to see a brood of ducklings with a hen!\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf2 \cb1 -- Listen to the story of Jemima Puddle-duck, who was annoyed because the farmer's wife would not let her hatch her own eggs.\
+Her sister-in-law, Mrs. Rebeccah Puddle-duck, was perfectly willing to leave the hatching to some one else -- "I have not the patience to sit on a nest for twenty-eight days; and no more have you, Jemima. You would let them go cold; you know you would!"\
+"I wish to hatch my own eggs; I will hatch them all by myself," quacked Jemima Puddle-duck.\
+She tried to hide her eggs; but they were always found and carried off.\
+Jemima Puddle-duck became quite desperate. She determined to make a nest right away from the farm.\
+She set off on a fine spring afternoon along the cart-road that leads over the hill.\
+She was wearing a shawl and a poke bonnet.\
+When she reached the top of the hill, she saw a wood in the distance.\
+She thought that it looked a safe quiet spot.\
+Jemima Puddle-duck was not much in the habit of flying. She ran downhill a few yards flapping her shawl, and then she jumped off into the air.\
+She flew beautifully when she had got a good start.\
+She skimmed along over the tree-tops until she saw an open place in the middle of the wood, where the trees and brushwood had been cleared.\
+Jemima alighted rather heavily, and began to waddle about in search of a convenient dry nesting-place. She rather fancied a tree-stump amongst some tall fox-gloves.\
+But -- seated upon the stump, she was startled to find an elegantly dressed gentleman reading a newspaper.\
+He had black prick ears and sandy coloured whiskers.\
+"Quack?" said Jemima Puddle-duck, with her head and her bonnet on one side -- "Quack?"\
+The gentleman raised his eyes above his newspaper and looked curiously at Jemima --\
+"Madam, have you lost your way?" said he. He had a long bushy tail which he was sitting upon, as the stump was somewhat damp.\
+Jemima thought him mighty civil and handsome. She explained that she had not lost her way, but that she was trying to find a convenient dry nesting-place.\
+"Ah! is that so? indeed!" said the gentleman with sandy whiskers, looking curiously at Jemima. He folded up the newspaper, and put it in his coat-tail pocket.\
+Jemima complained of the superfluous hen.\
+"Indeed! how interesting! I wish I could meet with that fowl. I would teach it to mind its own business!"\
+"But as to a nest -- there is no difficulty: I have a sackful of feathers in my wood-shed. No, my dear madam, you will be in nobody's way. You may sit there as long as you like," said the bushy long-tailed gentleman.\
+He led the way to a very retired, dismal-looking house amongst the fox-gloves.\
+It was built of faggots and turf, and there were two broken pails, one on top of another, by way of a chimney.\
+"This is my summer residence; you would not find my earth -- my winter house -- so convenient," said the hospitable gentleman.\
+There was a tumble-down shed at the back of the house, made of old soap-boxes. The gentleman opened the door, and showed Jemima in.\
+The shed was almost quite full of feathers -- it was almost suffocating; but it was comfortable and very soft.\
+Jemima Puddle-duck was rather surprised to find such a vast quantity of feathers. But it was very comfortable; and she made a nest without any trouble at all.\
+When she came out, the sandy whiskered gentleman was sitting on a log reading the newspaper -- at least he had it spread out, but he was looking over the top of it.\
+He was so polite, that he seemed almost sorry to let Jemima go home for the night. He promised to take great care of her nest until she came back again next day.\
+He said he loved eggs and ducklings; he should be proud to see a fine nestful in his wood-shed.\
+Jemima Puddle-duck came every afternoon; she laid nine eggs in the nest. They were greeny white and very large. The foxy gentleman admired them immensely. He used to turn them over and count them when Jemima was not there.\
+At last Jemima told him that she intended to begin to sit next day -- "and I will bring a bag of corn with me, so that I need never leave my nest until the eggs are hatched. They might catch cold," said the conscientious Jemima.\
+"Madam, I beg you not to trouble yourself with a bag; I will provide oats. But before you commence your tedious sitting, I intend to give you a treat. Let us have a dinner-party all to ourselves!\
+"May I ask you to bring up some herbs from the farm-garden to make a savoury omelette? Sage and thyme, and mint and two onions, and some parsley. I will provide lard for the stuff-lard for the omelette," said the hospitable gentleman with sandy whiskers.\
+Jemima Puddle-duck was a simpleton: not even the mention of sage and onions made her suspicious.\
+She went round the farm-garden, nibbling off snippets of all the different sorts of herbs that are used for stuffing roast duck.\
+And she waddled into the kitchen, and got two onions out of a basket.\
+The collie-dog Kep met her coming out, "What are you doing with those onions? Where do you go every afternoon by yourself, Jemima Puddle-duck?"\
+Jemima was rather in awe of the collie; she told him the whole story.\
+The collie listened, with his wise head on one side; he grinned when she described the polite gentleman with sandy whiskers.\
+He asked several questions about the wood, and about the exact position of the house and shed.\
+Then he went out, and trotted down the village. He went to look for two fox-hound puppies who were out at walk with the butcher.\
+Jemima Puddle-duck went up the cart-road for the last time, on a sunny afternoon. She was rather burdened with bunches of herbs and two onions in a bag.\
+She flew over the wood, and alighted opposite the house of the bushy long-tailed gentleman.\
+He was sitting on a log; he sniffed the air, and kept glancing uneasily round the wood. When Jemima alighted he quite jumped.\
+"Come into the house as soon as you have looked at your eggs. Give me the herbs for the omelette. Be sharp!"\
+He was rather abrupt. Jemima Puddle-duck had never heard him speak like that.\
+She felt surprised, and uncomfortable.\
+While she was inside she heard pattering feet round the back of the shed. Some one with a black nose sniffed at the bottom of the door, and then locked it.\
+Jemima became much alarmed.\
+A moment afterwards there were most awful noises -- barking, baying, growls and howls, squealing and groans.\
+And nothing more was ever seen of that foxy-whiskered gentleman.\
+Presently Kep opened the door of the shed, and let out Jemima Puddle-duck.\
+Unfortunately the puppies rushed in and gobbled up all the eggs before he could stop them.\
+He had a bite on his ear and both the puppies were limping.\
+Jemima Puddle-duck was escorted home in tears on account of those eggs.\
+She laid some more in June, and she was permitted to keep them herself: but only four of them hatched.\
+Jemima Puddle-duck said that it was because of her nerves; but she had always been a bad sitter.\
+}
